@@ -1,0 +1,171 @@
+.nav0{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+}
+.nav1 > ul {
+  list-style: none;
+}
+.divli1{
+  width: fit-content;
+  margin-left: 8%;
+}
+.divli2{
+  width: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 1000px;
+  margin-top: -50px;
+}
+.nav3 > ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container1{
+  border: 1px solid white;
+  background-image: url(./assets/newback.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+.aside{
+  margin-top: 15%;
+  margin-left: 5%;
+}
+.container2{
+  display: flex;
+  justify-content: center;
+}
+.container3{
+  display: flex;
+  justify-content: center;
+  margin-top: -2.5%;
+}
+.container4{
+  height: 500px;
+  width: 100%;
+  margin-top: -1%;
+  display: flex;
+}
+.inner1{
+  width: 50%;
+}
+.inner2{
+  width: 50%;
+}
+.container5{
+  margin: 0;
+  height: 400px;
+}
+.container5>div{
+  display: flex;
+  justify-content: center;
+}
+.container5-innerdiv{
+  height: 100%;
+  border: 1px solid blue;
+}
+.container5-innerdiv > div{
+  margin-top: -1%;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  list-style: none;
+}
+.container6>ul{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.container7>ul{
+  margin-top: -1% ;
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container8{
+  margin-top: -16%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+.container9{
+  margin-top: 0%;
+  height: 300px;
+}
+.container9>ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container10{
+  margin-left: -2%;
+}
+.container10>ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container11{
+  height: 600px;
+  display: flex;
+}
+.container11inner1{
+  width: 50%;
+}
+.container11inner2{
+  width: 50%;
+}
+.ultrainner1{
+  height: 25%;
+}
+.number1{
+  width: 25%;
+  height: 100%;
+}
+.number2{
+  width: 75%;
+  margin-left: 25%;
+  margin-top: -19.6%;
+  height: 100%;
+}
+.container12{
+  margin-top: 2%;
+  margin-bottom: 1%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+}
+.container13{
+  height: 80px;
+  margin-left: 34%;
+  margin-top: -2%;
+  margin-bottom: 1%;
+}
+.container14{
+  margin-top: -3%;
+  margin-left: 33%;
+  margin-bottom: 1%;
+  height: fit-content;
+  width: fit-content;
+}
+.container15{
+  background-color: aqua;
+  height: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.foot1{
+  width: 100%;
+}
+
+
+
+
